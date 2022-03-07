@@ -12,7 +12,7 @@ const defaultValue = {
   setData: () => {},
   isFiltered: false,
   setIsFiltered: () => {},
-  language: 'EN',
+  language: 'PT',
   setLanguage: () => {},
 };
 

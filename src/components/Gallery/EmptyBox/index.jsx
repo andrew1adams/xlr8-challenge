@@ -5,7 +5,7 @@ import { Paper } from '../../';
 import { Container } from './style';
 
 // assets
-import image from '../../assets/empty.jpg';
+import image from '../../../assets/empty.jpg';
 import { ImageContext } from '../../../context/imagesContext';
 import { useContext } from 'react';
 
