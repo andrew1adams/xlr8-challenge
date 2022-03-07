@@ -26,7 +26,7 @@ export const GlobalStyles = createGlobalStyle`
   body {
     background: var(--background);
     width: 100vw;
-    padding-top: 80px;
+    padding: 80px 0;
     overflow-x: hidden;
 
     ul li {
@@ -52,7 +52,7 @@ export const GlobalStyles = createGlobalStyle`
     }
 
     @media (max-width: 680px) {
-      padding-top: 60px;
+      padding: 60px 0;
     }
   }
 `;
